@@ -1,0 +1,28 @@
+*{
+   margin: 0;
+   font-family: sans-serif ;
+  
+}
+
+.login{
+    display: grid;
+    background-color: black;
+    place-items: center;
+    height: 100vh;
+}
+img{
+     width: max-content;
+}
+.login>a{
+     text-align: center;
+    padding: 20px;
+    width: 10%;
+    background-color:#1DB954;
+    border-radius: 99px;
+    font-weight: 800;
+    font-size: large;
+    color:white;
+    text-decoration: none;
+   
+
+} 
